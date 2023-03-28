@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff3db;
+    font-size: 1em;
+}
+
+.container {
+    margin: auto;
+    width: 100%;
+
+}
+
+h1 {
+    background-color: #f02425 ;
+    color: #ffffff;
+    font-size: 2.5em;
+    text-align: center;
+    height: 45px;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #f02425 ; 
+    font-size: 1.8em;
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 1.2em;
+    font-weight:normal;
+    text-align: center;
+}
+
+p {
+   margin-left: 20px;
+   line-height: 30px;
+}
+
+.image {
+  display: flex; 
+  justify-content: center; 
+}
+
+.astuces {
+    background-color: #FED48A;
+    color: #666666;
+    font-style: italic;
+    font-size: 0.8em;
+    font-weight: bold;
+    padding-left: 10px;
+}
